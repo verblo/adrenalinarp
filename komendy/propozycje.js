@@ -19,8 +19,7 @@ module.exports.run = async(bot, message, args, msg) => {
    msg.react('❌')
     msg.react('✅')
   })
-		
-		message.guild.channels.get(`${config.kanalprop}`).sendMessage('> Użyj komendy !propozycja, na obojętnie jakim kanale, aby napisać propozycję.')
+
         
             return;        
     }

@@ -1,0 +1,51 @@
+{
+
+  "token": "NzI2Mzc5Njg3MjQ4NjU4NDUz.Xveqeg.K0NksAilfcQdMfc7D_sPdwM-5gE", 
+  "prefix": "!",
+
+  "host": "51.75.41.124", 
+  "user": "veeq",
+  "password": "hslo", 
+  "database": "nazwa", 
+
+  "wlcommand": "wl", 
+  "guildidwl": "622822629371412509", 
+  "kanalwl": "623248089443991562", 
+
+  "kanalst": "719310963051987024",
+  "wiadomoscst": "726540426714153030", 
+  "ipst": "51.75.41.124:30120",
+  "maksst": "48",
+  "kolorst": "RANDOM",
+  "nazwafoost": "AdrenalinaRP",
+  "nazwaglst": "AdrenalinaRP - Online",
+
+
+  "kategoriatic": "726984401790959626",
+  "roleidtic": "726984448834273290", 
+  "komendatic": "zamknij", 
+  "logitic": "726538619187363910", 
+
+  "roladev": "💻  | DEVELOPER", 
+  "iddev": "718911565121716225",
+  "komendadev": "devlog", 
+
+  "rolehex": "💻  | DEVELOPER",
+  "komendahex": "hex",
+
+  "rolaogl": "💻  | DEVELOPER",
+  "idogl": "718911560461975643", 
+  "komendaogl": "ogloszenie", 
+
+  "rolapoll": "💻  | DEVELOPER",
+  "komendapoll": "poll",
+
+  "kanalprop": "718911572835172470",
+  "komendaprop": "propozycja",
+
+  "rolasay": "💻  | DEVELOPER",
+  "komendasay": "say",
+
+  "rolars": "💻  | DEVELOPER",
+  "komendars": "rs"
+}
