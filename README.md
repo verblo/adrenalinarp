@@ -1,5 +1,1 @@
-# adrenalinarp
-# adrenalinarpbott
-# adrenalinarpbott
-# adrenalinarp
-"# adrenalinarp" 
+Bot używany kilka lat temu na discordzie AdrenalinaRP.
